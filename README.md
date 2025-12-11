@@ -28,5 +28,5 @@ pip install -r requirements.txt
 jupyter notebook
 
 4. Open the Tutorial Notebook:
-- Navigate to svm_tutorial.ipynb in the Jupyter interface
+- Navigate to svm.ipynb in the Jupyter interface
 - Click to open and start executing cells
